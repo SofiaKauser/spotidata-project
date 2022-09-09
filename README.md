@@ -1,8 +1,7 @@
 # SpotiData Project 
 ## Why do we listen to the music we listen to? An analysis of trends on Spotify
 
-### Project 1 Team: Jovan, Sofia & Diana
-### University of Birmingham / Data Analysis Bootcamp
+### Team: Jovan, Sofia & Diana
 
 We have worked with the Spotify API to analyse:
 
